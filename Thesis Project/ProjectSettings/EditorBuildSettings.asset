@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AR.unity
+    guid: 089348daa23b83946a4ef1a8e4af3bf1
+  m_configObjects:
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: ade3594c85ae4694b961b49812689625, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eacd143d4772d7b4e83fc2b71ee28483, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f6f4460ce8cec314d9bca853bcb90ca9, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: bd9cebfebcd82a148bef7c3520a1dc5a, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 237f09cad09ff1b41bcfb2acbbf09ee9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d88acf629de7ad84ba4c41745eec2d2f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e5fd2a96664303142910dcde5ee5a976, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: bf3201f69c046c241ba1edd610305908, type: 2}
